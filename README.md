@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ramya-Immanuel
 - 👀 I’m interested in Python, MySQL, Power BI, Tableau
-- 🌱 I’m currently learning Python, Power BI
 - 💞️ I’m looking to collaborate on Python coding
 
 
